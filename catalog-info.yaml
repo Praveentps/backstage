@@ -7,6 +7,9 @@ metadata:
   # annotations:
   #   github.com/project-slug: backstage/backstage
   #   backstage.io/techdocs-ref: dir:.
+  annotations:
+    github.com/project-slug: praveentps/backstage
+
 spec:
   type: service
   owner: Praveen
