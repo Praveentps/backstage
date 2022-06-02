@@ -8,8 +8,9 @@ metadata:
   #   github.com/project-slug: backstage/backstage
   #   backstage.io/techdocs-ref: dir:.
   annotations:
-    github.com/project-slug: praveentps/backstage
-    backstage.io/kubernetes-namespace: backstage
+    backstage.io/kubernetes-id: value
+    #github.com/project-slug: praveentps/backstage
+    #backstage.io/kubernetes-namespace: backstage
 
 spec:
   type: service
